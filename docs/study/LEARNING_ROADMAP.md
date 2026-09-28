@@ -1,5 +1,7 @@
 # 学习路线 M00-M17
 
+> 跨仓编排入口：[LLM-Learning-OS Integration](LEARNING_OS_LINK.md)。本仓负责 mechanism-first 源码追踪与实验；Canonical Knowledge、跨仓评测和 Stop Rule 由 LLM-Learning-OS 统一管理。
+
 固定顺序：
 
 M00: [仓库与环境](modules/M00_REPOSITORY_ENVIRONMENT.md)
